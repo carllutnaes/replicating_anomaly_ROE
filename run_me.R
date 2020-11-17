@@ -1,7 +1,7 @@
 
 # In order to run, set working directory
 # to your specific local map location
-# (func. setwd() - row 4 in this script)
+# (row 9 in this script)
 #
 # Descriptive scripts to make LaTeX plots not included
 # because they 
